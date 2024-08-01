@@ -68,3 +68,13 @@ plt.hist(targets_test['predicted_target'])
 plt.xlabel('Survived vs not-survived')
 plt.ylabel('frequency of passengers survived vs not-survived')
 plt.title('Predicted Values histogram');
+![Screenshot 2024-08-01 195125](https://github.com/user-attachments/assets/804e9a77-976a-4308-a2b5-b16fc1db925e)
+![Screenshot 2024-08-01 195148](https://github.com/user-attachments/assets/ffa658df-edc3-4870-a03e-5cae5cad48ad)
+![Screenshot 2024-08-01 195200](https://github.com/user-attachments/assets/a44b9ce1-38bb-45af-b790-20da2947b558)
+![Screenshot 2024-08-01 195226](https://github.com/user-attachments/assets/61e033e6-38c6-45c0-a734-b3ee281f7229)
+![Screenshot 2024-08-01 195252](https://github.com/user-attachments/assets/3c1107c3-5cfb-429f-b074-d2adccf3064b)
+![Screenshot 2024-08-01 195311](https://github.com/user-attachments/assets/bda1c0da-015d-4872-ae47-91742435227f)
+![Screenshot 2024-08-01 195351](https://github.com/user-attachments/assets/3560338f-4be1-4ad4-9e5d-d7c928678fa4)
+
+
+
